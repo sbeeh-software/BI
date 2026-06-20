@@ -1,0 +1,7 @@
+Azure SQL authentication
+--------------------------------------------------
+Server name: sbeehbisqlsrv.database.windows.net
+Server admin: msbeeh
+Password: P@ssw0rd123456
+
+

@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,JoiningDate,Email,Phone
+101, John Doe,Finance,55000,2019-06-15,john.doe@example.com,9876543210
+102,Jane Smith,it,72000,2018-04-20,jane.smith@example.com,8765432109
+103,Michael Johnson,HR,65000,2020-09-10,michael.johnson@example.com,7654321098
+104,Emily Davis,IT,,2017-12-05,emily.davis@example.com,6543210987
+105,David Wilson,Finance,58000,2021-03-18,david.wilson@example.com,5432109876
+106,Jessica Brown,HR,60000,2019-11-30,jessica.brown@example.com,4321098765
+107,Daniel Lee,Marketing,52000,2020-07-25,daniel.lee@example.com,3210987654
+108,Sophia Martinez,Finance,59000,2022-01-12,sophia.martinez@example.com,2109876543
+109,James Anderson,IT,73000,2016-09-28,james.anderson@example.com,1098765432
+110,Linda White,HR,62000,2018-06-10,linda.white@example.com,
